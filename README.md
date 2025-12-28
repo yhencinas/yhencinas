@@ -10,11 +10,10 @@ and clean architecture principles. Passionate about continuous learning, problem
 Always ready to take on new challenges 🚀
 
 </div>
----
 
-## Core Skills
+## 🧠 Core Skills
 
-**Frontend Development**
+### 🎨 Frontend Development
 - Angular
 - React
 - TypeScript
@@ -22,7 +21,7 @@ Always ready to take on new challenges 🚀
 - HTML5, CSS3
 - Responsive Design
 
-**Backend Development**
+### ⚙️ Backend Development
 - Node.js
 - NestJS
 - Java (Quarkus, Spring Boot)
@@ -30,13 +29,13 @@ Always ready to take on new challenges 🚀
 - Authentication (JWT)
 - API Security
 
-**Databases**
+### 🗄️ Databases
 - PostgreSQL
 - SqlServer
 - Oracle
 - MySQL
 
-**Tools & Practices**
+### 🛠️ Tools & Practices
 - GitLab, GitHub
 - Docker (basic)
 - Linux
@@ -50,8 +49,7 @@ Always ready to take on new challenges 🚀
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhencinas&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhencinas&layout=compact)
+
 
 ---
 
