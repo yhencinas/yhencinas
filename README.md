@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yhencinas/yhencinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yery Encinas
 
-Here are some ideas to get you started:
+## 💻 Software Engineer | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer with experience in the design and development of modern web applications.  
+Strong background in frontend and backend development, API design, authentication, database integration,  
+and clean architecture principles. Passionate about continuous learning, problem-solving, and knowledge sharing.  
+Always ready to take on new challenges 🚀
+
+</div>
+---
+
+## Core Skills
+
+**Frontend Development**
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML5, CSS3
+- Responsive Design
+
+**Backend Development**
+- Node.js
+- NestJS
+- Java (Quarkus, Spring Boot)
+- RESTful APIs
+- Authentication (JWT)
+- API Security
+
+**Databases**
+- PostgreSQL
+- SqlServer
+- Oracle
+- MySQL
+
+**Tools & Practices**
+- GitLab, GitHub
+- Docker (basic)
+- Linux
+- Clean Code
+- SOLID Principles
+- Agile / Scrum (basic understanding)
+
+➡️ *More projects available in my repositories.*
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhencinas&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhencinas&layout=compact)
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories!
